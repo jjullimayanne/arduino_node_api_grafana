@@ -26,6 +26,7 @@ O Arduino é uma placa open-source. Sendo assim, toda a propriedade intelectual 
 
 - 1 Arduino Uno
 - Sensor Ultrassônico HC-SR04
+- Módulo Esp8266 WiFi
 
 ### Como funciona o sensor:
 
