@@ -35,3 +35,5 @@ Seu comportamento se baseia no envio de sinais ultrassônicos pelo sensor, que a
 ## Estrutura do Projeto
 
 Todo o código do Arduino estará na pasta chamada 'sensor_system_arduino'.
+
+##configs: https://www.instructables.com/Steps-to-Setup-Arduino-IDE-for-NODEMCU-ESP8266-WiF/
